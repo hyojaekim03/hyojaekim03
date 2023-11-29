@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Hyojae, a 2nd year Computer Engineering student at the University of Waterloo. 
+
 ![](https://komarev.com/ghpvc/?username=hyojaekim&color=green)
 
 <!--
