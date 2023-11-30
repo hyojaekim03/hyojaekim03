@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: 📩 hyojaekim03@gmail.com
 
-![](https://komarev.com/ghpvc/?username=hyojaekim&color=green)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
