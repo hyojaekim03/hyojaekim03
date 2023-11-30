@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: 📩 hyojaekim03@gmail.com
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hyojaekim03.visitor-badge)
+![](https://komarev.com/ghpvc/?username=hyojaekim03&color=green)
