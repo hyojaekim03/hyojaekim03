@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: 📩 hyojaekim03@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=#ADD8E6)
