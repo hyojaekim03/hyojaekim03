@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: 📩 hyojaekim03@gmail.com
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=hyojaekim03f&repo=github-visitors-badge&countColor=0000FF)
+![](https://api.visitorbadge.io/api/VisitorHit?user=hyojaekim03f&repo=github-visitors-badge&countColor=#00FFFF)
