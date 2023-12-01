@@ -5,4 +5,4 @@ I'm Hyojae, a second year Computer Engineering student attending the University 
 - 🚀 Seeking **Summer 2024** software internships!
 - 📫 How to reach me: 📩 hyojaekim03@gmail.com
 
-![](https://komarev.com/ghpvc/?username=hyojaekim03&color=green)
+
