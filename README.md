@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hello! 👋
 I'm Hyojae, a second year Computer Engineering student attending the University of Waterloo. 
 - 🔭 I’m currently working on developing a speech shadowing assessment feature using Microsoft Azure AI services!
 - 🌱 I’m currently learning AI ML with Python and R.
