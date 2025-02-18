@@ -1,8 +1,8 @@
 ## Hey, I'm Andrew 👋  
 <p style="font-weight: 750; font-size: 16px;">
-    🛠️ Software Developer @ Enercare Inc <br>
-    💻 Computer Engineering @ UW <br>
-    🧠 AI Research @ Hamming.Ai (WAT.ai)
+    **🛠️ Software Developer @ Enercare Inc 
+    **💻 Computer Engineering @ UW 
+    **🧠 AI Research @ Hamming.Ai (WAT.ai)
 </p>
 
 
