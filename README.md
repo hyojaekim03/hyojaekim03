@@ -1,6 +1,6 @@
 ## Hey, I'm Andrew 👋
-### Software Developer @ Enercare Inc
-### Computer Engineering @ UW
+#### Software Developer @ Enercare Inc
+#### Computer Engineering @ UW
 
 ### Let's connect!
 <div>
