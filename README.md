@@ -1,6 +1,7 @@
 ## Hey, I'm Andrew 👋
-#### Software Developer @ Enercare Inc
-#### Computer Engineering @ UW
+#### 🛠️ Software Developer @ Enercare Inc
+#### 💻 Computer Engineering @ UW
+#### 🐳 AI Research @ Hamming.Ai (WAT.ai)
 
 ### Let's connect!
 <div>
