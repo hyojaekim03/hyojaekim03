@@ -1,7 +1,11 @@
 ## Hey, I'm Andrew 👋  
-**🛠️ Software Developer @ Enercare Inc**  
-**💻 Computer Engineering @ UW**  
-**🧠 AI Research @ Hamming.Ai (WAT.ai)**
+<p style="font-weight: 500; font-size: 16px;">
+    <strong>Hey, I'm Andrew 👋</strong> <br>
+    🛠️ Software Developer @ Enercare Inc <br>
+    💻 Computer Engineering @ UW <br>
+    🧠 AI Research @ Hamming.Ai (WAT.ai)
+</p>
+
 
 
 ### Let's connect!
