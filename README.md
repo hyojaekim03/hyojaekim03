@@ -1,6 +1,5 @@
 ## Hey, I'm Andrew 👋  
-<p style="font-weight: 500; font-size: 16px;">
-    <strong>Hey, I'm Andrew 👋</strong> <br>
+<p style="font-weight: 600; font-size: 16px;">
     🛠️ Software Developer @ Enercare Inc <br>
     💻 Computer Engineering @ UW <br>
     🧠 AI Research @ Hamming.Ai (WAT.ai)
