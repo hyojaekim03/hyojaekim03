@@ -23,11 +23,16 @@
 </div>
 
 #### Other tools
-<div>
+<div style="margin-bottom: 20px;">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab" width="150px">
     </a>
 </div>
+
+**🛠️ Software Developer @ Enercare Inc** </br>  
+**💻 Computer Engineering @ UW** </br>  
+**🧠 AI Research @ Hamming.Ai (WAT.ai)**
+
 
 
  **🛠️ Software Developer @ Enercare Inc </br>**
