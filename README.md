@@ -4,6 +4,8 @@
 **💻 Computer Engineering @ UW**  
 **🧠 AI Research @ Hamming.Ai (WAT.ai)**
 
+Exploring and developing scalable solutions across all aspects of software engineering. Currently deep diving into LLMs and their applications - specifically code generation in LLMs. 
+
 <!---
 Each icon is set to size 30. The image width should be 30 * # of images on the row
 --> 
