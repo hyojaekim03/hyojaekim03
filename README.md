@@ -11,7 +11,7 @@
 #### AI/ML
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="200px">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="100px">
     </a>
 </div>
 
