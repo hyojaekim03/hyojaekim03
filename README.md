@@ -11,14 +11,14 @@
 #### AI/ML
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="150px">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="90px">
     </a>
 </div>
 
 #### DB
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" width="150px">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" width="120px">
     </a>
 </div>
 
