@@ -4,7 +4,9 @@
  **💻 Computer Engineering @ UW </br>**
  **🧠 AI Research @ Hamming.Ai (WAT.ai)**
 
-
+ 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Let's connect!
 <div>
