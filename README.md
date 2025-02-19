@@ -4,28 +4,28 @@
 #### Web
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs" width="250px">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs" width="150px">
     </a>
 </div>
 
 #### AI/ML
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="100px">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="150px">
     </a>
 </div>
 
 #### DB
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" width="250px">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" width="150px">
     </a>
 </div>
 
 #### Other tools
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab" width="250px">
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab" width="150px">
     </a>
 </div>
 
