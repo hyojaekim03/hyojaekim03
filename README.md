@@ -2,13 +2,33 @@
  
 ### Skills
 #### Web
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nodejs)](https://skillicons.dev)
-#### AI/ML 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](https://skillicons.dev)
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs" width="250px">
+    </a>
+</div>
+
+#### AI/ML
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" width="200px">
+    </a>
+</div>
+
 #### DB
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" width="250px">
+    </a>
+</div>
+
 #### Other tools
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab)](https://skillicons.dev)
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab" width="250px">
+    </a>
+</div>
+
 
  **🛠️ Software Developer @ Enercare Inc </br>**
  **💻 Computer Engineering @ UW </br>**
