@@ -1,4 +1,8 @@
 ## Hey, I'm Andrew 👋  
+
+**🛠️ Software Developer @ Enercare Inc**  
+**💻 Computer Engineering @ UW**  
+**🧠 AI Research @ Hamming.Ai (WAT.ai)**
  
 ### Skills
 #### Web
@@ -28,10 +32,6 @@
         <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab" width="150px">
     </a>
 </div>
-
-**🛠️ Software Developer @ Enercare Inc**  
-**💻 Computer Engineering @ UW**  
-**🧠 AI Research @ Hamming.Ai (WAT.ai)**
 
 
 
