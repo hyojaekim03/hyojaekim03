@@ -6,7 +6,18 @@
 
  
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,py,c,cpp)](https://skillicons.dev)
+#### Web Framework/Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
+#### AI/ML 
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+#### DB
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
+#### Version ctrl
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+#### Other tools
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab)](https://skillicons.dev)
 
 ### Let's connect!
 <div>
