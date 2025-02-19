@@ -5,10 +5,10 @@
 **🧠 AI Research @ Hamming.Ai (WAT.ai)**
  
 ### Skills
-#### Web
+#### System/Web Dev
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nodejs" width="150px">
+        <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,redux,nodejs" width="150px">
     </a>
 </div>
 
