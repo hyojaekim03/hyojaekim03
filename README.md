@@ -11,7 +11,7 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 #### System/Web Dev
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,redux,nodejs" width="180px">
+        <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,redux,nodejs" width="210px">
     </a>
 </div>
 
