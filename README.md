@@ -3,12 +3,15 @@
 **🛠️ Software Dev Co-op @ Enercare Inc**  
 **💻 Computer Engineering @ UW**  
 **🧠 AI Research @ Hamming.Ai (WAT.ai)**
- 
+
+<!---
+Each icon is set to size 30. The image width should be 30 * # of images on the row
+--> 
 ### Skills
 #### System/Web Dev
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,redux,nodejs" width="150px">
+        <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,react,redux,nodejs" width="180px">
     </a>
 </div>
 
