@@ -29,11 +29,6 @@
     </a>
 </div>
 
-**🛠️ Software Developer @ Enercare Inc** </br>  
-**💻 Computer Engineering @ UW** </br>  
-**🧠 AI Research @ Hamming.Ai (WAT.ai)**
-
-
 
  **🛠️ Software Developer @ Enercare Inc </br>**
  **💻 Computer Engineering @ UW </br>**
