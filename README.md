@@ -34,7 +34,7 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 #### Other tools
 <div style="margin-bottom: 20px;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,matlab" width="150px">
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git,matlab" width="150px">
     </a>
 </div>
 
