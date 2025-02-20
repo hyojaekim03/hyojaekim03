@@ -1,4 +1,4 @@
-## Hey, I'm Andrew <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />
+## Hey, I'm Andrew <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" style="vertical-align: middle;" />
 
 **🛠️ Software Dev Co-op @ Enercare Inc**  
 **💻 Computer Engineering @ UW**  
@@ -40,7 +40,7 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 
 
 
-### Let's connect! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" alt="Mobile Phone with Arrow" width="25" height="25" />
+### Let's connect! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" style="vertical-align: middle;"/>
 <div>
 <a href="https://www.linkedin.com/in/hyojaek/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
