@@ -1,4 +1,4 @@
-## Hey, I'm Andrew 👋  
+## Hey, I'm Andrew <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />
 
 **🛠️ Software Dev Co-op @ Enercare Inc**  
 **💻 Computer Engineering @ UW**  
