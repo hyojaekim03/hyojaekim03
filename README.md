@@ -50,4 +50,7 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 </a>
 </div>
 
-![](https://komarev.com/ghpvc/?hyojaekim03&style=flat-square)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hyojaekim03&style=for-the-badge">
+</a>
+
