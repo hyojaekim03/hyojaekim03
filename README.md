@@ -2,7 +2,7 @@
 
 **🛠️ Software Dev Intern @ Enercare Inc**  
 **💻 Computer Engineering @ UW**  
-**🧠 AI Research @ Hamming.Ai (WAT.ai)**
+**🧠 AI/ML Research @ Hamming.Ai (WAT.ai)**
 
 Exploring and developing scalable solutions across all aspects of software engineering. Currently deep diving into LLMs and its applications - specifically code generation in LLMs. 
 
