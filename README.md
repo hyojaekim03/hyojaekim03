@@ -9,6 +9,7 @@ Exploring and developing scalable solutions across all aspects of software engin
 <!---
 Each icon is set to size 30. The image width should be 30 * # of images on the row
 --> 
+<!---
 ### Skills
 #### System/Web Dev
 <div>
@@ -37,6 +38,7 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
         <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git,matlab" width="180px">
     </a>
 </div>
+--> 
 
 
 
