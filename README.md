@@ -42,6 +42,10 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 
 ### Let's connect! 📧
 <div>
+[LinkedIn](https://www.linkedin.com/in/hyojaek/)
+    
+[Instagram](https://instagram.com/hyojaek03)
+
 <a href="https://www.linkedin.com/in/hyojaek/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
