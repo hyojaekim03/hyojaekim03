@@ -1,8 +1,8 @@
-## Hey, I'm Andrew <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" style="vertical-align: middle;" />
+### Hey, I'm Andrew <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" style="vertical-align: middle;" />
 
-**💻 Computer Engineering @ UWaterloo**  
-
-Exploring and developing scalable solutions across all aspects of software engineering. Currently deep diving into LLMs and its applications - specifically code generation in LLMs. 
+💻 Computer Engineering @ UWaterloo**  
+- Currently interested in quant trading, ai/ml, backend, infra. 
+- Exploring and developing scalable solutions across all aspects of software engineering. 
 
 <!---
 Each icon is set to size 30. The image width should be 30 * # of images on the row
@@ -40,9 +40,8 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 
 
 
-### Let's connect! 📧
+Feel free to reach out @ 📧
 <div>
-    
 [LinkedIn](https://www.linkedin.com/in/hyojaek/) | [Instagram](https://instagram.com/hyojaek03)
 
 <!-- <a href="https://www.linkedin.com/in/hyojaek/" target="_blank">
