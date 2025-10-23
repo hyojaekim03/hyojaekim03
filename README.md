@@ -42,6 +42,7 @@ Each icon is set to size 30. The image width should be 30 * # of images on the r
 
 Feel free to reach out @ 📧
 <div>
+    
 [LinkedIn](https://www.linkedin.com/in/hyojaek/) | [Instagram](https://instagram.com/hyojaek03)
 
 <!-- <a href="https://www.linkedin.com/in/hyojaek/" target="_blank">
