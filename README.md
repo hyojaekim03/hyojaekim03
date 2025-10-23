@@ -1,7 +1,7 @@
 ### Hey, I'm Andrew <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" style="vertical-align: middle;" />
 
 💻 Computer Engineering @ UWaterloo
-- Currently interested in quant trading, ai/ml, backend, infra. 
+- Interested in quant trading, ai/ml, backend, infra. 
 - Exploring and developing scalable solutions across all aspects of software engineering. 
 
 <!---
