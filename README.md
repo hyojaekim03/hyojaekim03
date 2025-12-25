@@ -1,9 +1,7 @@
-### Hey, I'm Andrew :)
+### Hey, I'm Andrew
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" style="vertical-align: middle;" /> -->
-- Incoming SWE intern @ Roo
-- 💻 Engineering @ UWaterloo
-- Interested in quant trading, ai/ml, backend, infra
-- Exploring and developing scalable solutions across all aspects of software engineering
+- 🧠 Interested in AI/ML, reinforcement learning, sim2real, autonomous/self-learning systems, cognitive processes.
+- 🤖 Currently deep diving into RL.
 
 <!---
 Each icon is set to size 30. The image width should be 30 * # of images on the row
