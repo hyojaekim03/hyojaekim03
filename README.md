@@ -1,7 +1,7 @@
 ### Hey, I'm Andrew
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" style="vertical-align: middle;" /> -->
 - comp eng @ uwaterloo
-- backend, ai/ml, infra
+- backend, infra, ai/ml
 
 <!---
 Each icon is set to size 30. The image width should be 30 * # of images on the row
